@@ -62,4 +62,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/Brunopln12)
+⌨️ com 💜 por [Bruno P L Nascimento](https://github.com/Brunopln12)
